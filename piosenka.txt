@@ -3,14 +3,4 @@ refren-1.txt
 zwrotka-2.txt
 refren-2.txt
 zwrotka-3.txt
-You cannot eat money, oh no
-You cannot eat money, oh no
-When the last tree has fallen
-And the rivers are poisoned
-You cannot eat money, oh no
-You cannot eat money, oh no
-You cannot eat money, oh no
-When the last tree has fallen
-And the rivers are poisoned
-You cannot eat money, oh no
-Oh no
+refren-3.txt
